@@ -33,7 +33,7 @@ services:
       - key: DATABASE_PROVIDER
         value: "postgresql"
       - key: DATABASE_CONNECTION_URI
-        value: "psql "postgresql://neondb_owner:npg_hK2voda6xutT@ep-round-dew-adf7dbqj-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+        value: "postgresql://neondb_owner:npg_hK2voda6xutT@ep-round-dew-adf7dbqj-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
       - key: DATABASE_CONNECTION_CLIENT_NAME
         value: "evolution_exchange"
       
